@@ -1,0 +1,34 @@
+body
+{
+font-family: 'Ysabeau Infant', sans-serif;
+background-size:cover;
+}
+.heading{
+width:100%;
+font-size:18px !important; 
+}
+.heading button{
+    float:right;
+}
+#start,#reset{
+width:30%;
+height:10%;
+}
+#status{
+    border: 3px solid white;
+}
+.heading h3{
+    display:inline;
+}
+.footer{
+font-size:16px;
+background-color:rgb(168, 172, 175);
+width:100%;
+bottom:0;
+margin:0;
+position:fixed;
+}
+canvas{
+border:3px white solid;
+border-radius:8px;
+}
